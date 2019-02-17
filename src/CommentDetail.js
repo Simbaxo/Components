@@ -10,14 +10,14 @@ const CommentDetail = () => {
       <div className="content">
         <a href="/" className="author">
           Sam
-          </a>
+        </a>
         <div className="metadata">
           <span className="date">
             Today at 6:00PM
-            </span>
-          <div className="text">
-            Nice blog post!
-            </div>
+          </span>
+        </div>
+        <div className="text">
+          Nice blog post!
         </div>
       </div>
     </div>
